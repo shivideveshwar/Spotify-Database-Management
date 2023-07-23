@@ -1,4 +1,4 @@
-# Spotify---Database-Management
+# Spotify-Database-Management
 
 Introduction
 
